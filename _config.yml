@@ -11,7 +11,7 @@ city: New Hudson
 state: MI
 zip_code: 48165
 country: United States of America
-phone: (248) 860-0866
+phone: +1 (248) 860-0866
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

@@ -3,13 +3,15 @@ layout: post
 title: Hello World!
 description: My very first blog post
 image: assets/images/2018-04-18.jpg
-date: 2018-04-18 13:50:00
+date: 2018-04-18 14:20:47
 ---
 
-(Wow that's big!)
+(Wow that's a BIG picture!)
 
-We programmers are exceptionally polite. Whether it is our first time writing a computer program or just trying out a new technology, we start our journey by greeting to the world. In fact, this website is yet another journey that just launched today: my very own static, personal website powered by Jekyll and Netlify. And so I will do the same... "Hello World!"
+Have you noticed that we (programmers) are extremely polite? Of course we are! Whenever we meet a new programming language or technology for the first time, we start our journey by greeting to the world. And this website is no different: this is my first time deploying a personal website for the whole world to see! So let me open this blog post with a big, loud "Hello World!"
 
-Let me warn you that this is technically not my first personal website. In fact, this is my second one. The first one used to live in my university's server, and it is was created solely for educational purposes only: I coded EVERYTHING from scratch. From defining the structure using HTML to stylizing the page using CSS to animating objects using JavaScript, it was a product of hard work and hours spent working on the website. But you can only do so little, especially when you are a full-time student studying day and night, all year long.
+Hopefully, you had a chance to visit my [About Me](about_me.html) page where you learned a little bit about myself. But in case you haven't, my name is Shuta Suzuki, and I am currently an undergraduate student at the University of Michigan studying computer science and linguistics. When I am not in my classes, I enjoy participating in club activities and working as a research assistant at a research lab.
 
-How did I end up here? Well, that is going to be my next blog post.
+Some of you may relate, but life as a computer science student is very, very, VERY busy, so I don't plan on writing a blog entry every single day. Maybe once a week. Or once a month. Well, maybe a few times a year. I don't know, but I don't want to make any empty promises so I will not make any bold statements here.
+
+I honestly don't have a clear plan of what to write in these blog posts, but I am sort of envisioning this to be a platform where I share my recent experiences with computer technologies or just some fun times in my personal life. Probably both. So keep coming back! I will see you very soon in my next blog post.
