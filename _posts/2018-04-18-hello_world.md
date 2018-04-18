@@ -2,8 +2,10 @@
 layout: post
 title: Hello World!
 description: My very first blog post
-image: assets/images/pic01.jpg
+image: assets/images/2018-04-18.jpg
 ---
+
+(Wow that's big!)
 
 We programmers are exceptionally polite. Whether it is our first time writing a computer program or just trying out a new technology, we start our journey by greeting to the world. In fact, this website is yet another journey that just launched today: my very own static, personal website powered by Jekyll and Netlify. And so I will do the same... "Hello World!"
 
