@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Shuta
+subtitle: Suzuki
+email: shutas@umich.edu
+description: Personal website for Shuta Suzuki
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 57421 Windmill Pointe
+city: New Hudson
+state: MI
+zip_code: 48165
 country: United States of America
-phone: (716) 555-5555
+phone: (248) 860-0866
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
