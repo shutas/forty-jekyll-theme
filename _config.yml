@@ -4,7 +4,7 @@ subtitle: Suzuki
 email: shutas@umich.edu
 description: Personal website for Shuta Suzuki
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://shutas.netlify.com # the base hostname & protocol for your site
 author:
 street_address: 57421 Windmill Pointe
 city: New Hudson
