@@ -22,7 +22,7 @@ nav-menu: true
 				</header>
 				<p>I will be entering my senior year of undergraduate studies in the fall of 2018. With graduation just around the corner, I am seeking a full-time opportunity where I can leverage my knowledge of computer science and linguistics.</p>
 				<ul class="actions">
-					<li><a href="assets/documents/Shuta_Suzuki_Résumé.pdf" class="button" download>Download Résumé</a></li>
+					<li><a href="{{ site.url }}/assets/documents/Shuta_Suzuki_Résumé.pdf" class="button" download>Download Résumé</a></li>
 				</ul>
 			</div>
 		</div>
