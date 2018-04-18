@@ -3,6 +3,7 @@ layout: post
 title: Hello World!
 description: My very first blog post
 image: assets/images/2018-04-18.jpg
+date: 2018-04-18 13:50:00
 ---
 
 (Wow that's big!)
