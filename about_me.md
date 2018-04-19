@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 description: Information about Shuta Suzuki
-image: assets/images/about_me.jpg
+image: assets/images/engineering_center.jpg
 nav-menu: true
 ---
 

@@ -2,7 +2,7 @@
 title: Résumé
 layout: landing
 description: 'Because I want you to know more about me.'
-image: assets/images/pic07.jpg
+image: assets/images/mason_hall.jpg
 nav-menu: true
 ---
 
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/cube_bw.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
