@@ -6,7 +6,7 @@ image: assets/images/2018-04-18.jpg
 date: 2018-04-18 14:20:47
 ---
 
-(Wow that's a BIG picture if you're look at this on a computer! By the way, that's me)
+(Wow that's a BIG picture if you're looking at this on a computer! By the way, that's me)
 
 Have you noticed that we (programmers) are extremely polite? Of course we are! Whenever we meet a new programming language or technology for the first time, we start our journey by greeting to the world. And this website is no different: this is my first time deploying a personal website for the whole world to see! So let me open this blog post with a big, loud "Hello World!"
 
