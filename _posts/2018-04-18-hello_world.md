@@ -6,9 +6,11 @@ image: assets/images/2018-04-18.jpg
 date: 2018-04-18 14:20:47
 ---
 
-(Wow that's a BIG picture if you're looking at this on a computer! By the way, that's me)
-
 Have you noticed that we (programmers) are extremely polite? Of course we are! Whenever we meet a new programming language or technology for the first time, we start our journey by greeting to the world. And this website is no different: this is my first time deploying a personal website for the whole world to see! So let me open this blog post with a big, loud "Hello World!"
+
+![Shuta Suzuki Selfie](/assets/images/2018-04-18.jpg){:class="image main"}
+
+(Wow that's a BIG picture if you're looking at this on a computer! By the way, that's me)
 
 Hopefully, you had a chance to visit my [About Me](about_me.html) page where you learned a little bit about myself. But in case you haven't, my name is Shuta Suzuki, and I am currently an undergraduate student at the University of Michigan studying computer science and linguistics. When I am not in my classes, I enjoy participating in club activities and working as a research assistant at a research lab.
 
