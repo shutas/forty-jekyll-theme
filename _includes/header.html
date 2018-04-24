@@ -24,7 +24,10 @@
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
+		{% if page.url contains "-ja" %}
+		<li><a href="{{ page.url }}" class="button special fit">English</a></li>
+		{% else %}
+		<li><a href="{{ page.url }}" class="button fit">日本語(Coming Soon!)</a></li>
+		{% endif %}
 	</ul>
 </nav>
