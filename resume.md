@@ -75,8 +75,16 @@ nav-menu: true
                         <td>Foundations of Computer Science</td>
                     </tr>
                     <tr>
+                        <td>EECS388</td>
+                        <td>Introduction to Computer Security (Planned for Fall)</td>
+                    </tr>
+                    <tr>
                         <td>EECS398</td>
                         <td>Special Topics - Computing for Computer Scientists</td>
+                    </tr>
+                    <tr>
+                        <td>EECS441</td>
+                        <td>Mobile App Development for Entrepreneurs (Planned for Fall)</td>
                     </tr>
                     <tr>
                         <td>EECS485</td>
@@ -102,6 +110,10 @@ nav-menu: true
                     <tr>
                         <td>LING315</td>
                         <td>Introduction to Syntax</td>
+                    </tr>
+                    <tr>
+                        <td>LING316</td>
+                        <td>Aspects of Meaning (Planned for Fall)</td>
                     </tr>
                     <tr>
                         <td>LING370</td>
