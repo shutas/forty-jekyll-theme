@@ -12,22 +12,44 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
+		{% for page in site.pages %}
+			<!-- Home (English) -->
+			{% if lang == "en" %}
+				{% if page.layout == "home" %}
+					{% unless page.url contains "/ja/" %}
+						<li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
+					{% endunless %}
+				{% endif %}
+			<!-- Home (Japanese) -->
+			{% else %}
+				{% if page.layout == "home" %}
+					{% if page.url contains "/ja/" %}
+						<li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}
+			{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
+			<!-- Non-Home Pages (English) -->
+			{% if lang == "en" %}
+				{% if page.layout != "home" and page.nav-menu == true %}
+					{% unless page.url contains "/ja/" %}
+						<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+					{% endunless %}
+				{% endif %}
+			<!-- Non-Home Pages (Japanese) -->
+			{% else %}
+				{% if page.layout != "home" and page.nav-menu == true and page.url contains "/ja/" %}
+					<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+				{% endif %}
+			{% endif %}
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
-		{% if page.url contains "-ja" %}
-		<li><a href="{{ page.url }}" class="button special fit">English</a></li>
+		{% if lang == "ja" %}
+			<li><a href="{{ page.url }}" class="button fit">English</a></li>
 		{% else %}
-		<li><a href="{{ page.url }}" class="button fit">日本語(Coming Soon!)</a></li>
+			<li><a href="{{ page.url }}" class="button fit">日本語(Coming Soon!)</a></li>
 		{% endif %}
 	</ul>
 </nav>

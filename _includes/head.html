@@ -8,4 +8,9 @@
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<meta content="Personal Website of Shuta Suzuki, an undergraduate student at the University of Michigan - Ann Arbor." name="description">
+	{% if page.url contains "/ja/" %}
+		{% assign lang = "ja" %}
+	{% else %}
+		{% assign lang = "en" %}
+	{% endif %}
 </head>
