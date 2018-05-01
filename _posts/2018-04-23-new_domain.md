@@ -4,6 +4,7 @@ title: New Domain
 description: Y'all, We Have a New Name
 image: assets/images/2018-04-23.jpg
 date: 2018-04-23 22:39:47
+lang: en
 ---
 
 I just finished one of my final exams this morning, so I thought I'd come here and give you a little update on what I've been up to recently:)

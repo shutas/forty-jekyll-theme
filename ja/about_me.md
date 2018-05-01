@@ -6,11 +6,10 @@ image: assets/images/engineering_center.jpg
 nav-menu: true
 ---
 
+こんにちは！[ミシガン大学アナーバー校](https://umich.edu/){:target="_blank"}の鈴木秀汰と申します。大学では[コンピュータサイエンス](https://www.eecs.umich.edu/){:target="_blank"}を専攻、[言語学](https://lsa.umich.edu/linguistics/){:target="_blank"}を副専攻しています。コンピュータの分野では、自然言語処理・ウェブ開発・ユーザーインターフェイスおよびインタラクションに興味があります。
+
 ![Engineering Center](/assets/images/engineering_center.jpg){:class="image main"}
 
-こんにちは！鈴木秀汰と申します。
-My name is Shuta Suzuki, and I am an undergraduate student at the [University of Michigan - Ann Arbor](https://umich.edu){:target="_blank"}. I am currently majoring in [Computer Science](https://www.eecs.umich.edu/){:target="_blank"} and minoring in [Linguistics](https://lsa.umich.edu/linguistics){:target="_blank"}. My interests include natural language processing, web development, and user interface/interaction.
+現在はミシガン大学社会調査研究所内の[バイオソーシャル・メソッズ・コラボラティブ研究室](http://biosocialmethods.isr.umich.edu/){:target="_blank"}にてリサーチ・アシスタントとして働いています。生物学・心理学・生理学・社会科学など、様々な分野の研究プロジェクトにおいてソフトウェア開発やIT管理などを通して貢献しています。
 
-I currently work as a Research Assistant at [BioSocial Methods Collaborative](http://biosocialmethods.isr.umich.edu/){:target="_blank"} located inside the University of Michigan's Institute for Social Research. I contribute to multiple interdisciplinary research projects in biology, psychology, physiology, and social sciences primarily through software programming or new technology integration.
-
-In my free time, I enjoy watching YouTube, playing chess, and eating tempura udon.
+暇な時はYouTubeやチェスで時間を潰します。好きな食べ物は天ぷらうどんです。

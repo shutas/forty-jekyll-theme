@@ -3,7 +3,13 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<!-- Logo (English) -->
+	{% if lang == "en" %}
+		<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<!-- Logo (Japanese) -->
+	{% else %}
+		<a href="{{ "ja" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	{% endif %}
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -24,7 +30,7 @@
 			{% else %}
 				{% if page.layout == "home" %}
 					{% if page.url contains "/ja/" %}
-						<li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
+						<li><a href="{{ "ja" | absolute_url }}/">{{ page.title }}</a></li>
 					{% endif %}
 				{% endif %}
 			{% endif %}
@@ -47,9 +53,9 @@
 	</ul>
 	<ul class="actions vertical">
 		{% if lang == "ja" %}
-			<li><a href="{{ page.url }}" class="button fit">English</a></li>
+			<li><a href="{{ page.url | remove: "ja/" }}" class="button fit">English</a></li>
 		{% else %}
-			<li><a href="{{ page.url }}" class="button fit">日本語(Coming Soon!)</a></li>
+			<li><a href="{{ page.url | prepend: "ja" | absolute_url }}" class="button fit">日本語</a></li>
 		{% endif %}
 	</ul>
 </nav>

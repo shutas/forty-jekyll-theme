@@ -19,7 +19,11 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                {% if lang == "en" %}
+                    <p style="text-transform: uppercase;">{{ site.description }}</p>
+                {% else %}
+                    <p style="text-transform: uppercase;">鈴木秀汰のオフィシャルサイト</p>
+                {% endif %}
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Start Exploring!</a></li>
                 </ul>

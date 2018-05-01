@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ホーム
-landing-title: こんにちは、秀汰です。
+landing-title: どうも、秀汰です。
 description: null
 image: null
 author: null
