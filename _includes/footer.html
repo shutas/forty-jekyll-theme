@@ -4,20 +4,45 @@
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
-					<label for="name">Name</label>
+					<!-- Form Label: Name (English) -->
+					{% if lang == "en" %}
+						<label for="name">Name</label>
+					<!-- Form Label: Name (Japanese) -->
+					{% else %}
+						<label for="name">お名前</label>
+					{% endif %}
 					<input type="text" name="name" id="name" />
 				</div>
 				<div class="field half">
-					<label for="email">Email</label>
+					<!-- Form Label: Email (English) -->
+					{% if lang == "en" %}
+						<label for="email">Email</label>
+					<!-- Form Label: Email (Japanese) -->
+					{% else %}
+						<label for="email">メールアドレス</label>
+					{% endif %}
 					<input type="text" name="_replyto" id="email" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
+					<!-- Form Label: Email (English) -->
+					{% if lang == "en" %}
+						<label for="message">Message</label>
+					<!-- Form Label: Email (Japanese) -->
+					{% else %}
+						<label for="message">メッセージ</label>
+					{% endif %}
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
+					<!-- Form Buttons (English) -->
+					{% if lang == "en" %}
+						<li><input type="submit" value="Send Message" class="special" /></li>
+						<li><input type="reset" value="Clear" /></li>
+					<!-- Form Buttons (Japanese) -->
+					{% else %}
+						<li><input type="submit" value="送信" class="special" /></li>
+						<li><input type="reset" value="リセット" /></li>
+					{% endif %}
 				</ul>
 			</form>
 		</section>
@@ -25,21 +50,39 @@
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
+					<!-- Email (English) -->
+					{% if lang == "en" %}
+						<h3>Email</h3>
+					<!-- Email (Japanese) -->
+					{% else %}
+						<h3>メールアドレス</h3>
+					{% endif %}
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
+					<!-- Phone (English) -->
+					{% if lang == "en" %}
+						<h3>Phone</h3>
+					<!-- Phone (Japanese) -->
+					{% else %}
+						<h3>電話番号</h3>
+					{% endif %}
 					<span>{{ site.phone }}</span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+					<!-- Address (English) -->
+					{% if lang == "en" %}
+						<h3>Address</h3>
+					<!-- Address (Japanese) -->
+					{% else %}
+						<h3>住所</h3>
+					{% endif %}
 					<span>
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
