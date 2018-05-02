@@ -11,7 +11,7 @@ lang: ja
 
 もともとはこのサイトをデプロイしている[Netlify](https://netlify.com/){:target="_blank"}のサブドメインを使っていたんですけど、やっぱりせっかくの自分のウェブサイトなので個別のドメインが欲しい！と思い、買っちゃいました。その結果、皆さんご存知の通り現在は新しいカスタムドメインである[shutasuzuki.com/ja](https://shutasuzuki.com/ja/){:target="_blank"}にてサイトをアクセスできるようになりました。このドメイン名は[Google Domains](https://domains.google/){:target="_blank"}にて購入しました。僕が購入したドメイン名は年間で12ドルと、比較的安く手に入れることができました。
 
-![Google Domain Screenshot](/assets/images/2018-04-23.jpg){:class="image main"}
+![グーグルドメインスクリーンショット](/assets/images/2018-04-23.jpg){:class="image main"}
 
 (Check Outを押して支払い情報を入力するだけで即購入することができました。便利な時代ですね。)
 
