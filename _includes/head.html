@@ -6,13 +6,12 @@
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
+	<link rel="icon" type="image/png" href="/assets/images/favicon_compressed.png">
 	{% if page.url contains "/ja/" %}
 		{% assign lang = "ja" %}
-		<link rel="icon" type="image/png" href="../assets/images/favicon.png">
 		<meta content="米国ミシガン大学アナーバー校の学部生 鈴木秀汰 のオフィシャルサイトです。" name="description">
 	{% else %}
 		{% assign lang = "en" %}
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
 		<meta content="Personal Website of Shuta Suzuki, an undergraduate student at the University of Michigan - Ann Arbor." name="description">
 	{% endif %}
 </head>
