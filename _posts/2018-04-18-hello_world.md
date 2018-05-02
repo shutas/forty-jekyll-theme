@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 description: My very first blog post
-image: assets/images/2018-04-18.jpg
+image: assets/images/2018-04-18_compressed.jpg
 date: 2018-04-18 14:20:47
 lang: en
 ---
