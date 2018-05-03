@@ -29,7 +29,7 @@ nav-menu: true
 		</div>
 	</section>
     <section>
-		<a href="#" class="image" target="_blank">
+		<a href="https://github.com/shutas/IEEEUMich-Card-Reader" class="image" target="_blank">
 			<img src="/assets/images/sign_in_scanner.jpg" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
@@ -39,7 +39,7 @@ nav-menu: true
 				</header>
 				<p>I am currently working on building an embedded system which would scan University of Michigan's student ID cards, mark them as present on a spreadsheet, and send the spreadsheet over to officers' email inboxes. It will use <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/" target="_blank">Raspberry Pi 3 Model B</a> as the main processor.</p>
 				<ul class="actions">
-					<li><a href="#" class="button" target="_blank">Source Code (Coming soon!)</a></li>
+					<li><a href="https://github.com/shutas/IEEEUMich-Card-Reader" class="button" target="_blank">Source Code</a></li>
 				</ul>
 			</div>
 		</div>
@@ -53,8 +53,8 @@ nav-menu: true
 				<header class="major">
 					<h3>University of Michigan's IEEE Website</h3>
 				</header>
-				<p>Previously as the Publicity Chair for IEEE Student Branch at the University of Michigan, I have worked on maintaining the organization's website. Similar to my personal website, I used <a href="https://jekyllrb.com/">Jekyll</a> to generate the pages.</p>
-				<p>Link: <a href="http://ieee-umich.github.io/ieee-website/">IEEE Student Branch at the University of Michigan</a></p>
+				<p>Previously as the Publicity Chair for IEEE Student Branch at the University of Michigan, I have worked on maintaining the organization's website. Similar to my personal website, I used <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> to generate the pages.</p>
+				<p>Link: <a href="http://ieee-umich.github.io/ieee-website/" target="_blank">IEEE Student Branch at the University of Michigan</a></p>
                 <ul class="actions">
 					<li><a href="https://github.com/ieee-umich/ieee-website" class="button" target="_blank">Source Code</a></li>
 				</ul>

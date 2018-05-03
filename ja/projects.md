@@ -29,7 +29,7 @@ nav-menu: true
 		</div>
 	</section>
     <section>
-		<a href="#" class="image" target="_blank">
+		<a href="https://github.com/shutas/IEEEUMich-Card-Reader" class="image" target="_blank">
 			<img src="/assets/images/sign_in_scanner.jpg" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
@@ -39,7 +39,7 @@ nav-menu: true
 				</header>
 				<p>現在は将来クラブ活動で使うための組み込みシステムを製作中です。具体的にはミシガン大学の学生証を読み取りスプレッドシートにまとめ、役員全員へメールで送信するシステムを開発中です。ラズパイ（<a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/" target="_blank">Raspberry Pi 3 Model B</a>）を主要プロセッサとして利用する予定です。</p>
 				<ul class="actions">
-					<li><a href="#" class="button" target="_blank">ソースコード (Coming soon!)</a></li>
+					<li><a href="https://github.com/shutas/IEEEUMich-Card-Reader" class="button" target="_blank">ソースコード</a></li>
 				</ul>
 			</div>
 		</div>
@@ -53,8 +53,8 @@ nav-menu: true
 				<header class="major">
 					<h3>IEEEミシガン大学支部公式サイト</h3>
 				</header>
-				<p>以前IEEEミシガン大学支部の広報部長として活動していた頃に管理していたウェブサイトです。このウェブサイトと同様、<a href="https://jekyllrb.com/">Jekyll</a>を利用してページを生成しました。</p>
-				<p>リンク：<a href="http://ieee-umich.github.io/ieee-website/">IEEEミシガン大学支部公式サイト（英語）</a></p>
+				<p>以前IEEEミシガン大学支部の広報部長として活動していた頃に管理していたウェブサイトです。このウェブサイトと同様、<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>を利用してページを生成しました。</p>
+				<p>リンク：<a href="http://ieee-umich.github.io/ieee-website/" target="_blank">IEEEミシガン大学支部公式サイト（英語）</a></p>
                 <ul class="actions">
 					<li><a href="https://github.com/ieee-umich/ieee-website" class="button" target="_blank">ソースコード</a></li>
 				</ul>
