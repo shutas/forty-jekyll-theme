@@ -37,7 +37,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Sign In Scanner (In Progress)</h3>
 				</header>
-				<p>I am currently working on building an embedded system which would scan University of Michigan's student ID cards, mark them as present on a spreadsheet, and send the spreadsheet over to officers' email inboxes. It will use <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/" target="_blank">Raspberry Pi 3 Model B</a> as the main processor.</p>
+				<p>I am currently working on building an embedded system which would scan University of Michigan's student ID cards, record unique IDs and swipe counts, and send over the result to officers' email inboxes. It will use <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/" target="_blank">Raspberry Pi 3 Model B</a> as the main processor.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/shutas/IEEEUMich-Card-Reader" class="button" target="_blank">Source Code</a></li>
 				</ul>
