@@ -84,7 +84,7 @@ nav-menu: true
                     </tr>
                     <tr>
                         <td>EECS441</td>
-                        <td>投資家のためのモバイルアプリ開発　(Mobile App Development for Entrepreneurs：2018秋 履修予定)</td>
+                        <td>起業家のためのモバイルアプリ開発　(Mobile App Development for Entrepreneurs：2018秋 履修予定)</td>
                     </tr>
                     <tr>
                         <td>EECS485</td>
