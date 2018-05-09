@@ -53,7 +53,7 @@ nav-menu: true
 				<header class="major">
 					<h3>IEEEミシガン大学支部公式サイト</h3>
 				</header>
-				<p>以前IEEEミシガン大学支部の広報部長として活動していた頃に管理していたウェブサイトです。このウェブサイトと同様、<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>を利用してページを生成しました。</p>
+				<p>以前IEEEミシガン大学支部の広報部長として活動していた頃に製作・管理していたウェブサイトです。このウェブサイトと同様、<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>を利用してページを生成しました。</p>
 				<p>リンク：<a href="http://ieee-umich.github.io/ieee-website/" target="_blank">IEEEミシガン大学支部公式サイト（英語）</a></p>
                 <ul class="actions">
 					<li><a href="https://github.com/ieee-umich/ieee-website" class="button" target="_blank">ソースコード</a></li>
