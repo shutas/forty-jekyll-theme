@@ -15,4 +15,4 @@ Anyways, I finally published the Japanese version of this website today! Here is
 
 This new addition to my website is a LARGE update with respect to content and server-side code, so there are probably a bunch of bugs lurking behind (I am already aware of a few of them. If you find something peculiar, let me know through the form below!). I will keep making small changes to perfect it!
 
-You can access my Japanese homepage [here](https://www.shutasuzuki.com/ja/). You can also access the Japanese version of the webpage you're on by clicking "日本語" (literally "Japanese" in Japanese!) under MENU. Conversely, you can switch back to the English version by clicking on "English" under MENU.
+You can access my Japanese homepage [here](https://www.shutasuzuki.com/ja/){:target="_blank"}. You can also access the Japanese version of the webpage you're on by clicking "日本語" (literally "Japanese" in Japanese!) under MENU. Conversely, you can switch back to the English version by clicking on "English" under MENU.
