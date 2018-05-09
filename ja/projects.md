@@ -35,9 +35,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>サインインスキャナー（製作中）</h3>
+					<h3>サインインスキャナー</h3>
 				</header>
-				<p>現在は将来クラブ活動で使うための組み込みシステムを製作中です。具体的にはミシガン大学の学生証を読み取り一覧表にまとめ、役員全員へメールで送信するシステムを開発中です。ラズパイ（<a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/" target="_blank">Raspberry Pi 3 Model B</a>）を主要プロセッサとして利用する予定です。</p>
+				<p>クラブ活動で使うための組み込みシステムを製作しました。具体的にはミシガン大学の学生証を読み取り一覧表にまとめ、役員全員へメールで送信するシステムを開発しました。一度読み取った学生証はAPIを通してデータベース（Google Sheets）に登録でき、ラズパイ（<a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/" target="_blank">Raspberry Pi 3 Model B</a>）を主要プロセッサとして利用しました。</p>
 				<ul class="actions">
 					<li><a href="https://github.com/shutas/IEEEUMich-Card-Reader" class="button" target="_blank">ソースコード</a></li>
 				</ul>
