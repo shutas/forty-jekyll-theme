@@ -38,6 +38,7 @@ nav-menu: true
 					<h3>Sign In Scanner</h3>
 				</header>
 				<p>I built an embedded system which would scan University of Michigan's student ID cards, record their unique identifiers and swipe counts, update database (Google Sheets) via its API, and send over the list of scanned students to officers' email inboxes. It uses <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/" target="_blank">Raspberry Pi 3 Model B</a> as the main processor.</p>
+				<p>Links: <a href="https://www.shutasuzuki.com/2018/05/09/card_reader.html" target="_blank">Blog Post</a></p>
 				<ul class="actions">
 					<li><a href="https://github.com/shutas/IEEEUMich-Card-Reader" class="button" target="_blank">Source Code</a></li>
 				</ul>
