@@ -66,15 +66,7 @@
 
     <script>
         $(document).ready(function() {
-        //Preloader
-        $(window).on("load", function() {
-        preloaderFadeOutTime = 500;
-        function hidePreloader() {
-        var preloader = $('.loader-wrapper');
-        preloader.fadeOut(preloaderFadeOutTime);
-        }
-        hidePreloader();
-        });
+            $('.loader-wrapper').fadeOut(20000);
         });
     </script>
 
