@@ -64,10 +64,15 @@
 
     {% include footer.html %}
 
-    <script>
+    <!--<script>
         $(document).ready(function() {
             $('.loader-wrapper').fadeOut(2000);
         });
+    </script>-->
+    <script>
+        window.onload = function () {
+            $('.loader-wrapper').fadeOut(2000);
+        }
     </script>
 
 </body>
