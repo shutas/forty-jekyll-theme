@@ -76,7 +76,7 @@ nav-menu: true
                     </tr>
                     <tr>
                         <td>EECS388</td>
-                        <td>コンピュータセキュリティ入門　(Introduction to Computer Security：2018秋 履修予定)</td>
+                        <td>コンピュータセキュリティ入門　(Introduction to Computer Security)</td>
                     </tr>
                     <tr>
                         <td>EECS398</td>
@@ -84,7 +84,15 @@ nav-menu: true
                     </tr>
                     <tr>
                         <td>EECS441</td>
-                        <td>起業家のためのモバイルアプリ開発　(Mobile App Development for Entrepreneurs：2018秋 履修予定)</td>
+                        <td>起業家のためのモバイルアプリ開発　(Mobile App Development for Entrepreneurs)</td>
+                    </tr>
+					<tr>
+                        <td>EECS475</td>
+                        <td>暗号理論入門　(Introduction to Cryptography)</td>
+                    </tr>
+					<tr>
+                        <td>EECS481</td>
+                        <td>ソフトウェア工学　(Software Engineering)</td>
                     </tr>
                     <tr>
                         <td>EECS485</td>
@@ -113,7 +121,7 @@ nav-menu: true
                     </tr>
                     <tr>
                         <td>LING316</td>
-                        <td>意味の諸相　(Aspects of Meaning：2018秋 履修予定)</td>
+                        <td>意味の諸相　(Aspects of Meaning)</td>
                     </tr>
                     <tr>
                         <td>LING370</td>
