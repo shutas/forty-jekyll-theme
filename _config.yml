@@ -1,15 +1,15 @@
 # site settings
 title: Shuta Suzuki
 subtitle:
-email: shutas@umich.edu
+email: shutas (at) umich.edu
 description: Personal website of Shuta Suzuki
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 57421 Windmill Pointe
-city: New Hudson
+street_address: 615 South Main Street
+city: Ann Arbor
 state: MI
-zip_code: 48165
+zip_code: 48104
 country: United States of America
 phone: +1 (248) 860-0866
 
