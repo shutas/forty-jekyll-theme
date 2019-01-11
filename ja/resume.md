@@ -129,7 +129,7 @@ nav-menu: true
                     </tr>
                     <tr>
                         <td>LING394</td>
-                        <td>特別講義 ー コンピュータの言語を学ぶ (Topics in Linguistics - Learning the Language of Computers)</td>
+                        <td>特別講義 ー コンピュータの言語を学ぶ　(Topics in Linguistics - Learning the Language of Computers)</td>
                     </tr>
                     <tr>
                         <td>LING441</td>
