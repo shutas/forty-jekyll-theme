@@ -52,12 +52,29 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>IEEEミシガン大学支部公式サイト</h3>
+					<h3>IEEEミシガン大学支部公式サイト（旧）</h3>
 				</header>
 				<p>以前IEEEミシガン大学支部の広報部長として活動していた頃に製作・管理していたウェブサイトです。このウェブサイトと同様、<a href="https://jekyllrb.com/" target="_blank">Jekyll</a>を利用してページを生成しました。</p>
-				<p>リンク：<a href="http://ieee-umich.github.io/ieee-website/" target="_blank">IEEEミシガン大学支部公式サイト（英語）</a></p>
+				<p>リンク：<a href="http://ieee-umich.github.io/ieee-website/" target="_blank">旧IEEEミシガン大学支部公式サイト（英語）</a></p>
                 <ul class="actions">
 					<li><a href="https://github.com/ieee-umich/ieee-website" class="button" target="_blank">ソースコード</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://ieee.eecs.umich.edu" class="image" target="_blank">
+			<img src="/assets/images/new_ieee_website.jpg" alt="" data-position="top center"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>IEEEミシガン大学支部公式サイト（新）</h3>
+				</header>
+				<p>つい最近刷新したIEEEミシガン大学支部のウェブサイトです。ウェブ開発経験の少ない後輩でも簡単にサイト管理ができるように新しく作り直してみました。</p>
+				<p>リンク：<a href="https://ieee.eecs.umich.edu" target="_blank">新IEEEミシガン大学支部公式サイト（英語）</a></p>
+                <ul class="actions">
+					<li><a href="https://github.com/ieee-umich/en/tree/gh-pages" class="button" target="_blank">ソースコード</a></li>
 				</ul>
 			</div>
 		</div>

@@ -52,12 +52,29 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>University of Michigan's IEEE Website</h3>
+					<h3>University of Michigan's IEEE Website (Old)</h3>
 				</header>
 				<p>Previously as the Publicity Chair for IEEE Student Branch at the University of Michigan, I have worked on maintaining the organization's website. Similar to my personal website, I used <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> to generate the pages.</p>
 				<p>Link: <a href="http://ieee-umich.github.io/ieee-website/" target="_blank">IEEE Student Branch at the University of Michigan</a></p>
                 <ul class="actions">
 					<li><a href="https://github.com/ieee-umich/ieee-website" class="button" target="_blank">Source Code</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://ieee.eecs.umich.edu" class="image" target="_blank">
+			<img src="/assets/images/new_ieee_website.jpg" alt="" data-position="top center"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>University of Michigan's IEEE Website (New)</h3>
+				</header>
+				<p>Currently, we have a brand-new website for IEEE - University of Michigan with a simpler development structure (i.e. no static code generation) so that inexperienced officers can easily maintain.</p>
+				<p>Link: <a href="https://ieee.eecs.umich.edu" target="_blank">IEEE - University of Michigan</a></p>
+                <ul class="actions">
+					<li><a href="https://github.com/ieee-umich/en/tree/gh-pages" class="button" target="_blank">Source Code</a></li>
 				</ul>
 			</div>
 		</div>
