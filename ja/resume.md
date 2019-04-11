@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>採用担当の皆様へ</h3>
 				</header>
-				<p>2018年の秋を持ちまして学部4年生に進級いたします。大学卒業後はコンピュータや言語学の知識が活かせる職業に就きたいと考えております。貴社にて良い機会があれば、ぜひご連絡ください。</p>
+				<p>下記のリンクより英語のレジュメをご覧ください。質問等ございましたら、お気軽にご連絡ください。</p>
 				<ul class="actions">
 					<li><a href="../assets/documents/Shuta_Suzuki_Resume.pdf" target="_blank" class="button">履歴書（英語）をダウンロード</a></li>
 				</ul>

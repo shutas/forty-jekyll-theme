@@ -18,9 +18,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Dear Employers,</h3>
+					<h3>Dear Recruiters,</h3>
 				</header>
-				<p>I will be entering my senior year of undergraduate studies in the fall of 2018. With graduation just around the corner, I am seeking a full-time opportunity where I can leverage my knowledge of computer science and linguistics.</p>
+				<p>I am always open to new career opportunities that will help me develop professionally and make a significant impact to our world. Please feel free to learn more about me through my résumé, and contact me if you have any questions.</p>
 				<ul class="actions">
 					<li><a href="assets/documents/Shuta_Suzuki_Resume.pdf" target="_blank" class="button">Download Résumé</a></li>
 				</ul>
